@@ -1,1 +1,2 @@
 # MySharedRepository
+ping
